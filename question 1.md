@@ -5,3 +5,4 @@ for i in range(1,51,2):'
   b=a*i
 print(b)
 ```
+![blur](blur.png)
